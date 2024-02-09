@@ -1,5 +1,6 @@
 import { useGetUsersQuery } from './services/serverApi';
-import './App.css'
+import './App.css';
+import NewUserForm from './components/NewUserForm';
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
           data ? (<div>
             {data[0].name}
           </div>) : null}
+      <NewUserForm />
     </>
   )
 }
