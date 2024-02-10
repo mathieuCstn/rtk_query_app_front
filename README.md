@@ -240,7 +240,7 @@ export default function NewUserForm() {
 Si vous souhaitez en savoir plus sur les tuples (uplet en français) : https://fr.wikipedia.org/wiki/Uplet
 
 
-# Ressouces & liens
+# Ressources & liens
 
 [quick start: mise en place du store et du service](https://redux-toolkit.js.org/tutorials/rtk-query#setting-up-your-store-and-api-service)
 
@@ -253,3 +253,5 @@ Si vous souhaitez en savoir plus sur les tuples (uplet en français) : https://f
 [hooks react avec createApi()](https://redux-toolkit.js.org/rtk-query/api/created-api/hooks)
 
 [slices API: integration à redux](https://redux-toolkit.js.org/rtk-query/api/created-api/redux-integration)
+
+[rtk query: exemples](https://redux-toolkit.js.org/rtk-query/usage/examples)
